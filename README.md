@@ -62,7 +62,7 @@ https://aceroer.github.io/new-perspective-on-mathematics/
 
 This repository is the public web surface.
 
-It should not contain private notes, local paths, internal theory labels, API
+It should not contain restricted notes, local paths, nonpublic theory labels, API
 tokens, or full research workspaces.
 
 ## Current Pages

@@ -28,8 +28,8 @@ git push
 ## Boundary Scan
 
 Before publishing, run the public hygiene scan used by the main workflow
-repository.  The scan should check for unfinished placeholders, private labels,
-local machine paths, and secret-looking tokens.
+repository.  The scan should check for unfinished placeholders, restricted labels,
+local machine paths, and credential-like strings.
 
 Keep the command text outside this public Pages repository to avoid matching
 the scan pattern inside the operations note itself.
