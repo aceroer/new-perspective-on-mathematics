@@ -72,14 +72,26 @@ tokens, or full research workspaces.
 - `policies.html`
 - `issues/2026-06-branch-workflows.html`
 
+<!-- DUAL-LICENSE-START -->
 ## License
+
+Copyright (c) 2026 Wangyue.
 
 This repository uses a dual-license framework:
 
-- Journal text, policies, issue pages, and explanatory materials are licensed
-  under CC BY-NC-SA 4.0.
-- Site code, scripts, templates, and software components are licensed under
-  AGPL-3.0-only.
+- Code, scripts, Lean files, formalization files, and software components are
+  licensed under the GNU Affero General Public License v3.0 (AGPL-3.0-only).
+  See [LICENSE](LICENSE).
+- Research text, papers, manuscripts, documentation, templates, policies,
+  examples, and explanatory materials are licensed under the Creative Commons
+  Attribution-NonCommercial-ShareAlike 4.0 International License
+  (CC BY-NC-SA 4.0). See [LICENSE-DOCS](LICENSE-DOCS).
 
 Commercial or institutional use outside these license terms requires separate
-written permission from the author.  See [LICENSE](LICENSE).
+written permission from the author.
+
+Attribution must remain clear. Redistribution, adaptation, citation, or reuse
+must preserve attribution to the original author and repository. No derivative
+work may imply original authorship, endorsement, or official affiliation
+without explicit written permission.
+<!-- DUAL-LICENSE-END -->
