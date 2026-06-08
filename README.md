@@ -71,3 +71,15 @@ tokens, or full research workspaces.
 - `submissions.html`
 - `policies.html`
 - `issues/2026-06-branch-workflows.html`
+
+## License
+
+This repository uses a dual-license framework:
+
+- Journal text, policies, issue pages, and explanatory materials are licensed
+  under CC BY-NC-SA 4.0.
+- Site code, scripts, templates, and software components are licensed under
+  AGPL-3.0-only.
+
+Commercial or institutional use outside these license terms requires separate
+written permission from the author.  See [LICENSE](LICENSE).
