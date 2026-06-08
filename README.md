@@ -1,5 +1,5 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](./LICENSE)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](./LICENSE-DOCS)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](./DOCS-LICENSE)
 
 
 # New Perspective on Mathematics
@@ -89,7 +89,7 @@ This repository uses a dual-license framework:
 - Research text, papers, manuscripts, documentation, templates, policies,
   examples, and explanatory materials are licensed under the Creative Commons
   Attribution-NonCommercial-ShareAlike 4.0 International License
-  (CC BY-NC-SA 4.0). See [LICENSE-DOCS](LICENSE-DOCS).
+  (CC BY-NC-SA 4.0). See [DOCS-LICENSE](DOCS-LICENSE).
 
 Commercial or institutional use outside these license terms requires separate
 written permission from the author.
