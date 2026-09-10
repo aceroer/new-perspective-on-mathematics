@@ -14,7 +14,28 @@ Then in GitHub:
 Settings -> Pages -> Build and deployment -> Deploy from branch -> main -> /
 ```
 
-## Update
+## Article Pages
+
+Each article has its own HTML abstract page and a searchable PDF in `papers/`.
+Link articles from `papers/index.html` and their issue page. Keep the title,
+author, publication date, issue, and absolute `citation_pdf_url` consistent with
+the visible article details. Do not invent an ISSN, volume, pagination, or DOI.
+
+The initial Collatz entry reproduces manuscript version 0.2 from Zenodo record
+20535479 (publication date 2026-06-04, creator Wangyue). Its PDF is unchanged:
+
+- Source: https://zenodo.org/api/records/20535479/files/eulerian_collatz_method.pdf/content
+- Size: 218404 bytes
+- MD5 recorded by Zenodo: `725244c6bd0fb0d53834e6cf49de8a03`
+- PDF license: CC BY 4.0, retained from that record rather than replaced by the site license.
+
+For new versions, retain the existing version URL or introduce a distinct URL;
+do not replace a PDF while retaining another version's DOI and metadata.
+The HTML carries author and date metadata because the archived PDF omits them
+on its title page. Search indexing and timing are controlled by Google Scholar,
+not by successful Pages deployment.
+
+## Site Edits
 
 For ordinary site edits:
 

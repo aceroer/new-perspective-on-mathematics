@@ -1,0 +1,10 @@
+.article-page { max-width: 960px; padding-top: 28px; }
+.article-page h1 { font-size: 32px; line-height: 1.2; }
+.article-page h2 { font-size: 22px; margin-top: 24px; }
+.article-author { font-size: 21px; margin-bottom: 8px; }
+.article-page p, .article-page dd { overflow-wrap: anywhere; }
+.article-page .equation { font-family: Georgia, serif; }
+@media (max-width: 600px) {
+  .article-page h1 { font-size: 28px; }
+  .site-header { position: static; gap: 12px; }
+}
